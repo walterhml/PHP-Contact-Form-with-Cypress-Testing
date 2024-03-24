@@ -1,4 +1,7 @@
 # Formulário de Contato PHP com Testes Cypress
+
+![image](/assets/img.png)
+
 ## Visão Geral do Projeto
 Este projeto consiste em um formulário de contato desenvolvido em PHP, juntamente com testes automatizados escritos em Cypress para validar o formulário. O objetivo principal é demonstrar a criação de um formulário funcional em PHP e a automação de testes para garantir sua integridade.
 
